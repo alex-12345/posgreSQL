@@ -1,0 +1,31 @@
+version: '3'
+services:
+  postgres:
+    container_name: db-server
+    restart: always
+    image: "postgres:${POSTGRES_VERSION}" 
+    env_file:
+      - .env 
+    volumes:
+      - "postgres-data:/var/lib/postgresql/data/pgdata"
+      - "./sqldump/:/var/sqldump/"
+      - .:/docker-entrypoint-initdb.d
+    ports:
+      - "5432:5432"
+  pgadmin:
+    image: dpage/pgadmin4:6
+    container_name: pgadmin
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "${POSTGRES_USER}"
+      PGADMIN_DEFAULT_PASSWORD: "${POSTGRES_PASSWORD}"
+      PGADMIN_LISTEN_PORT: 80
+    ports:
+      - "8080:80"
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+    links:
+      - "postgres:pgsql-server"
+volumes:
+  postgres-data:
+  pgadmin-data:

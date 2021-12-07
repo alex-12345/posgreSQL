@@ -1,7 +1,7 @@
 version: '3'
 services:
   postgres:
-    container_name: db-server
+    container_name: task2-9-server
     restart: always
     image: "postgres:${POSTGRES_VERSION}" 
     env_file:
@@ -12,6 +12,30 @@ services:
       - .:/docker-entrypoint-initdb.d
     ports:
       - "5432:5432"
+  postgres2:
+    container_name: task10-server
+    restart: always
+    image: "postgres:${POSTGRES_VERSION}" 
+    env_file:
+      - task10.env 
+    volumes:
+      - "postgres-data:/var/lib/postgresql/data/pgdata"
+      - "./sqldump/:/var/sqldump/"
+      - .:/docker-entrypoint-initdb.d
+    ports:
+      - "5433:5432"
+  postgres3:
+    container_name: task11-server
+    restart: always
+    image: "postgres:${POSTGRES_VERSION}" 
+    env_file:
+      - task11.env 
+    volumes:
+      - "postgres-data:/var/lib/postgresql/data/pgdata"
+      - "./sqldump/:/var/sqldump/"
+      - .:/docker-entrypoint-initdb.d
+    ports:
+      - "5434:5432"
   pgadmin:
     image: dpage/pgadmin4:6
     container_name: pgadmin
@@ -24,6 +48,7 @@ services:
       - "8080:80"
     volumes:
       - pgadmin-data:/var/lib/pgadmin
+      - "./sqldump/:/var/sqldump/"
     links:
       - "postgres:pgsql-server"
 volumes:

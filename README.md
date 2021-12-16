@@ -32,7 +32,7 @@ $ docker exec -it --user "$(id -u):$(id -g)" pgadmin sh -c "rm -rf /var/sqldump/
 **Подключение к БД по psql**
 
 ```bash 
-$ docker exec -it db-server /usr/bin/psql -U root -d demo
+$ docker exec -it task2-9-server /usr/bin/psql -U root -d demo
 ```
 Так как в учебной БД таблицы создаются в schema bookings то будем переключаться на нее по мерее необходимости
 ```PGSQL
@@ -2042,3 +2042,7 @@ SELECT * FROM find_book('Oracle', 3);
 ```BASH 
 $ docker exec -it --user "$(id -u):$(id -g)" pgadmin sh -c "rm -rf /var/sqldump/sqlprimer-2019-msu-10.tgz /var/sqldump/task11/*" # эти файлы больше не нужны
 ```
+
+## Финальная работа ##
+
+Отчет располается в файле [FINAL_WORK.md](https://github.com/alex-12345/posgreSQL/blob/main/FINAL_WORK.md)

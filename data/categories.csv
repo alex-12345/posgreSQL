@@ -1,0 +1,522 @@
+category,description,len
+Art,B'nisl' b'eu' b'ad' b'sit' b'et'.,33
+Law,B'ante' b'in'.,14
+Sex,B'amet' b'mi' b'a' b've' b'dolor' b'a'.,39
+War,B'nunc' b'eu' b'egestas' b'magna' b'urna' b'a' b'a' b'a' b'a'.,62
+Men,B'nisi' b've'.,14
+Boys,B'amet' b'in' b'a' b'a' b'a' b'orci' b'a' b'a' b'integer'.,58
+Love,B'amet' b'et' b'a' b'leo' b'fusce' b'aptent' b'nam' b'justo' b'nostra' b'a' b'dui' b'tellus'.,93
+Dead,B'enim' b'in' b'a'.,19
+Cats,B'eget' b'eu' b'a' b'sem' b'ad'.,32
+Pets,B'orci' b'ad'.,14
+Jews,B'amet' b'eu' b'a' b'a'.,24
+Drama,B'elit' b've' b'a'.,19
+Birds,B'urna' b'et' b've'.,20
+Games,B'eget' b'eu' b'a' b'neque' b'a' b'odio' b'a' b'vel' b'a'.,58
+Blind,B'odio' b'ac' b'a' b'a' b'dictum' b'a' b'porta' b'sollicitudin' b'nisi'.,72
+Aging,B'urna' b'et' b'a' b'augue' b'ad' b'a' b'at' b'a' b'aptent' b'elit' b'at' b'a' b'per' b'ligula' b'eu' b'nibh'.,110
+Books,B'amet' b'et'.,14
+India,B'enim' b've' b'a' b'mi' b'a' b'a' b'vel' b'a' b'enim'.,55
+Egypt,B'elit' b'mi' b'urna' b'a' b'a' b'in' b'sed'.,45
+Bible,B'eros' b'ut' b'nisl' b'ad' b'a' b'a' b'est' b'erat' b'hac' b'a' b'ut' b'montes' b'sapien' b'a' b'sapien'.,106
+Humor,B'quis' b'id' b'ut' b'molestie' b'a' b'mauris'.,47
+Candy,B'erat' b'ut' b'a' b'a' b'a' b'a' b'a' b'duis' b'est' b'a'.,59
+China,B'erat' b've' b'pretium' b'risus' b've' b'sociis' b'a' b'arcu'.,63
+Gangs,B'ante' b'mi' b'a'.,19
+Death,B'nunc' b'in'.,14
+Magic,B'pede' b'at' b'commodo' b'a' b've' b'odio'.,44
+Anger,B'orci' b'ut' b'eu' b'orci' b'a' b'a' b'a' b'quam'.,51
+Cults,B'odio' b'in' b'a' b'vitae' b'consectetuer' b'quis' b'luctus' b'a'.,67
+Music,B'nibh' b'at' b'a' b'a' b'aenean' b'at' b'a'.,45
+Japan,B'odio' b'ac' b'a' b'taciti' b'sodales' b'a' b'sed' b'a' b'porta' b'eros' b'hac' b'tellus' b'at' b'a'.,102
+Amish,B'quis' b'et' b'in' b'eu' b'maecenas' b'risus' b'cras' b'dis'.,62
+Girls,B'cras' b've'.,14
+Elves,B'quam' b'eu' b'a' b'a' b'a' b'eu' b'arcu' b'a' b'a' b'hymenaeos'.,66
+Murder,B'eros' b'eu' b'cubilia' b'a' b'tempor' b'in' b'aptent' b'taciti' b'consectetuer'.,82
+Bibles,B'nisi' b'id' b'nibh' b'a' b'a' b'sem' b'magnis'.,49
+Poetry,B'eget' b'ac' b'a'.,19
+Essays,B'elit' b'at'.,14
+Comedy,B'enim' b'id' b'a' b'a' b've' b'a'.,35
+Design,B'quis' b'eu'.,14
+Nature,B'arcu' b'ac' b'ad' b'nec' b'ipsum' b'a'.,41
+Actors,B'nisl' b'at'.,14
+Cancer,B'diam' b'id'.,14
+Autism,B'elit' b'mi' b'gravida' b'proin' b'pede' b'tortor' b'a' b'ut' b'montes' b'velit' b'sem' b'a' b'nec'.,101
+Travel,B'erat' b'mi' b'a' b'a' b'a' b'phasellus' b'pellentesque' b'quam' b'est'.,73
+Blacks,B'enim' b'ad'.,14
+Heroes,B'eros' b'in' b'ut' b'est' b'mi' b'potenti' b'magna' b'a' b'a' b'ut' b'luctus' b'eros' b'dui' b'a' b'a' b'eu'.,110
+Europe,B'quam' b'id' b'a' b'a' b'a' b'tellus' b'facilisis' b'commodo' b'a' b'sit'.,75
+Canada,B'odio' b'et' b'ut' b'et' b'dui'.,33
+France,B'cras' b'ut'.,14
+Horror,B'cras' b'eu' b'a' b'a' b'a' b'integer' b'vel' b'a'.,52
+Family,B'quam' b'in' b'ad' b'odio' b'sit' b'a'.,40
+Acting,B'eget' b'eu' b'a' b'mi' b'sociis' b'semper'.,45
+Dreams,B'orci' b've' b'a' b'quam' b'ad' b've' b'amet' b'est' b'a' b'a' b'vulputate'.,77
+Clergy,B'erat' b'at' b'a' b'mauris' b'per' b've' b'mattis' b'a'.,57
+Queens,B'quis' b'ac'.,14
+Ballet,B'pede' b'eu' b'at' b'cum' b'a'.,32
+Angels,B'eget' b'mi'.,14
+British,B'odio' b'mi' b'a' b'quam' b'a' b'a' b'enim' b'a' b'a' b'at' b'a' b'et' b'a'.,77
+Badgers,B'nunc' b'at' b'nisl' b'a' b'a' b'nisl' b'a' b'massa' b'a' b'a' b'a'.,69
+Pigeons,B'nisi' b'ac' b'quam' b'aptent' b'lorem' b'leo' b'a' b'nascetur' b'consectetuer' b'arcu' b'a'.,94
+England,B'nibh' b'in' b'a' b'volutpat' b'a' b'nec' b'a' b'sed'.,55
+English,B'quis' b've' b'a' b'metus' b'posuere' b'magnis' b'habitant' b'a' b'mus' b'a' b'vel' b'nam' b'eget'.,100
+Fiction,B'nunc' b'mi' b'a' b'sit' b'morbi' b'a' b'justo' b'aliquet'.,60
+Cookery,B'cras' b've' b'a'.,19
+Gay men,B'diam' b'ut'.,14
+Amnesty,B'diam' b'eu'.,14
+Animals,B'eros' b'eu' b'a' b'quam' b'a' b'sem' b'a' b'nostra' b'a' b'a' b'tristique' b've' b'a' b'mi'.,94
+Courage,B'nibh' b'in' b'a'.,19
+Gardens,B'ante' b'id' b'ac'.,20
+Butlers,B'odio' b'et' b'ac' b'est' b'a' b'a' b'est' b'a' b'a'.,54
+Ballets,B'amet' b'et' b'odio' b'urna' b'erat' b'dis' b'varius' b'mus' b'aliquet' b'massa'.,82
+Artists,B'nisi' b'ac'.,14
+Physics,B'eget' b'ut' b'a' b'a' b'elit' b'a'.,37
+Divorce,B'ante' b'ac' b'a' b'lorem' b'consectetuer' b'nisl' b'litora' b'a' b'a'.,72
+Dragons,B'nunc' b'mi'.,14
+Zoology,B'erat' b've' b'a'.,19
+Austria,B'quis' b'mi' b'a' b'mollis' b'in'.,35
+Escapes,B'eget' b've' b'integer' b'neque' b'ac' b'taciti' b'nonummy' b'diam' b'a' b'id' b'odio' b'sem' b'a' b'et'.,106
+Bedtime,B'eros' b'eu' b'a' b'a' b'dictum' b'a' b'a' b'nisl' b'vel' b'a'.,64
+Outlaws,B'duis' b'in' b'a' b'etiam' b'primis' b'a' b'vehicula' b'a' b'sit' b'quam' b'amet' b'rutrum' b'a'.,98
+Brewing,B'ante' b'in' b'a' b'ac' b'morbi' b'conubia' b'est' b'a' b'a' b'a'.,67
+Diaries,B'diam' b'in' b'a' b'a' b'at'.,30
+Cooking,B'amet' b'eu' b'a' b'mus' b'a' b'fusce' b'enim' b'quam' b'etiam' b'a'.,70
+Beowulf,B'quis' b'et' b'a' b'ad' b'bibendum' b'a' b'a' b'lacus' b'a' b'morbi' b'a'.,75
+Fantasy,B'eget' b'ut' b'a' b'magna' b'a' b'quis' b'a'.,46
+Obesity,B'eros' b'mi'.,14
+Germany,B'quis' b'id'.,14
+Amnesia,B'orci' b'ut' b'a' b'a' b'mi' b'class'.,39
+History,B'nisl' b'ac' b'a' b'a' b'nisl' b'a' b'a' b'a' b'a' b'fringilla' b'a'.,70
+Authors,B'eros' b'et' b'a'.,19
+Costume,B'ante' b'ut' b'a' b'dui'.,26
+Cowboys,B'erat' b'ad' b'cras' b'a' b'a' b'ac' b'mi' b'et' b'porta' b'ad' b'at' b'elit' b'quis' b'enim'.,95
+Science,B'eget' b'id' b'a' b'ut'.,25
+Medical,B'nunc' b'ad' b'a' b'a' b'magna' b'a' b'cum' b'a' b'a' b'nostra'.,65
+Ireland,B'pede' b'ad'.,14
+Adultery,B'pede' b'in' b'a' b'a' b'a' b'a' b'varius' b'est'.,51
+Bullying,B'nisl' b'id' b'eu' b'a' b'cras' b'a' b'a' b'in' b'per' b'auctor' b'pretium'.,77
+Illinois,B'amet' b'ad' b'a' b'curae' b'nec'.,35
+Botswana,B'quam' b'id' b'a' b'a'.,24
+Religion,B'quam' b'at' b'conubia' b'justo' b'a' b'non' b'a' b'nibh' b'eu' b'a'.,70
+Contests,B'arcu' b'at' b'a' b'a' b'a' b'augue' b'a' b'a' b'a' b'massa' b'eni' b'a' b'urna' b'ad'.,88
+Misogyny,B'eget' b've' b'a' b'a' b'a' b'hac' b'a' b'praesent' b'a' b'est'.,65
+Buddhism,B'nunc' b'in' b'a' b'a' b'hac' b'a' b'a' b'neque' b'nisi'.,58
+Brothers,B'elit' b'ac'.,14
+Gambling,B'eros' b'ac'.,14
+Crusades,B'diam' b'et' b'ad' b'a'.,25
+Behavior,B'nibh' b'ad' b'a' b'a'.,24
+Belgians,B'odio' b've' b'a' b'vel' b'a' b'bibendum' b'nisl' b'a'.,56
+Exorcism,B'amet' b'ut' b'a' b'a' b'a' b'vel' b'fringilla'.,49
+Families,B'quam' b'id' b'a' b'quis' b've' b'a' b've' b'etiam' b'eu' b'proin' b'tempor' b'magna' b'et' b'varius' b'a'.,108
+Bombings,B'pede' b'eu'.,14
+Cellists,B'nunc' b'in'.,14
+Folklore,B'eget' b'at' b'eu' b'nunc' b'orci' b'hac' b'a' b'a'.,53
+Disasters,B'ante' b'eu' b'nisi' b'a' b'a' b'a' b'faucibus' b'nisi' b'et' b'aliquet' b'neque' b'erat' b'malesuada'.,104
+Gardening,B'orci' b'in' b'a' b'a' b'a' b'a'.,34
+Bracelets,B'pede' b'ad' b've' b'luctus' b'a' b'ac' b'a' b'per' b'eros' b'quam' b'a'.,74
+Courtship,B'eget' b'eu' b'amet' b'a' b'a' b'a' b'mi' b'erat' b'quam' b'nam' b've' b'id' b'mus' b'id'.,91
+Self-Help,B'odio' b'at' b'a' b'a' b'eros' b'a' b'a' b'accumsan' b'consectetuer' b'enim' b'a'.,83
+Epidemics,B'nunc' b'id'.,14
+Accidents,B'eget' b'ut' b'a' b'fermentum' b'pellentesque' b'eros' b'nam' b'a' b'ante'.,76
+Apartheid,B'ante' b'in' b'a' b'a' b'eu' b'dui'.,37
+Assassins,B'nisi' b'at' b'a' b'a' b'eu' b'eget' b'diam' b'a'.,51
+Catholics,B'eget' b'ad' b'a' b'est' b'dui' b'metus' b'accumsan' b'augue' b'pede' b'congue' b'a'.,86
+Actresses,B'cras' b'in' b'a' b'a' b'penatibus' b'a' b'eu' b'a' b'a'.,58
+Christmas,B'quis' b'ad' b'et' b've' b'a' b'a' b'at' b'dictum'.,52
+Botanique,B'quam' b'ut' b'a' b'cum' b'a' b'dis' b'a' b'nisi'.,51
+Electrons,B'arcu' b'eu' b'a' b'a' b'a' b'a' b'augue' b'quis' b'ac' b'a' b'hac' b'mi'.,75
+Stone age,B'enim' b've' b'a' b'sapien' b'conubia' b'a'.,45
+Seduction,B'quam' b'in'.,14
+Education,B'quis' b'ac' b'commodo' b'a' b'pellentesque' b'enim' b'non' b'a' b'a' b'mi' b'magnis' b'magna' b'a' b'at' b'fermentum' b'porta' b'ad' b'in' b'dui' b'fusce' b'a' b'a'.,167
+Computers,B'amet' b'ut'.,14
+Cosmology,B'eros' b'ac'.,14
+Defectors,B'elit' b'id' b'a' b'orci' b'a'.,32
+Chick lit,B'amet' b'ut' b'a' b'augue' b'molestie' b'a' b'a' b'class' b'a' b'orci' b'a' b'purus' b'duis' b'a' b'a'.,104
+Australia,B'eget' b'at' b'a'.,19
+City girl,B'orci' b'at' b'potenti' b'ipsum' b'a' b'a' b'a' b'purus' b'a' b'a'.,68
+Explorers,B'amet' b'ut' b'a' b'lorem' b'a' b'sollicitudin' b'hac' b'a' b'dignissim' b'a' b'nisi' b'a' b'rhoncus'.,103
+Americans,B'quam' b'ac' b'a' b'a' b'ut' b'accumsan' b'ipsum' b'nullam' b'a' b'a' b'sociis' b'neque' b'in' b'a' b'ad' b'etiam'.,116
+Surealism,B'cras' b'ut' b'a' b'nec' b'taciti' b'mus' b'libero' b'urna' b'ac' b'a'.,72
+Dystopias,B'nisi' b'eu' b'a' b'a' b'curae' b'duis' b'a'.,46
+Espionage,B'quis' b'et' b'a' b'sed'.,26
+Democracy,B'eros' b'in' b'a' b'a' b'volutpat' b'a'.,41
+Cookbooks,B'odio' b'id' b'at' b'lobortis' b'a' b'dis' b'ipsum' b'in' b'a' b'a' b'nunc' b'donec' b'a'.,91
+Reference,B'erat' b'mi' b'feugiat'.,25
+Criminals,B'arcu' b'in' b'a'.,19
+Civil law,B'arcu' b'ut' b'a' b'ad' b'tempus' b'a' b'nascetur' b'erat' b'pharetra' b'a' b'cum' b'nam' b'ac' b'maecenas' b'vitae' b've' b'a' b'nostra' b'a' b'eni' b'urna'.,159
+Teenagers,B'orci' b've' b'a'.,19
+Chocolate,B'quis' b'mi' b'ac' b'a'.,25
+Atonement,B'diam' b'ad' b'a' b'a' b've' b'felis'.,39
+Philosophy,B'erat' b'ut' b'posuere'.,25
+Audiobooks,B'cras' b'in'.,14
+Childbirth,B'amet' b'et'.,14
+Arithmetic,B'elit' b'in'.,14
+Television,B'duis' b'ad' b'posuere' b'erat' b'a' b'a' b'a' b'a' b'ridiculus'.,66
+Inventions,B'eros' b'ut' b'a' b'sem' b'a' b'in' b'congue' b'a' b'mi' b'a' b'vel' b'proin' b'nullam'.,89
+Parenthood,B'quam' b'in'.,14
+Antiheroes,B'nunc' b'ad' b'id' b'a' b'quam' b'nec' b'a'.,45
+Apartments,B'amet' b'mi'.,14
+Study Aids,B'ante' b'eu' b'ad' b'orci' b'a' b'augue'.,42
+Aged women,B'duis' b'id' b'a' b'a' b'a' b'a' b'a' b'libero'.,49
+Friendship,B'urna' b'et' b'eu' b'nam' b'at' b'sit' b'a' b'aptent' b'nisl' b'ac' b'a'.,74
+Bus travel,B'pede' b've' b'a'.,19
+Air pilots,B'quis' b'eu' b'a' b'nostra' b'habitasse' b'a' b'platea'.,57
+Shipwrecks,B'enim' b'et' b'ac' b'diam' b'a'.,33
+Allegories,B'cras' b'et' b'a' b'in'.,25
+Capitalism,B'nisi' b'ut' b'a' b'non' b'dignissim' b'odio' b've' b'a' b'a' b'a'.,68
+True Crime,B'ante' b'in'.,14
+Meditation,B'diam' b'mi' b'a' b'a' b'a' b'porta' b'donec' b'sollicitudin' b'conubia'.,74
+Physicists,B'quis' b've' b'et' b'porta' b'mattis' b'in' b'a' b'a'.,55
+Psychology,B'eros' b'eu' b'a' b'a' b'a' b'a' b'dictum' b'id' b'a'.,55
+Albigenses,B'erat' b'id' b'mi'.,20
+Alcoholics,B'eget' b'in' b'a' b'urna' b'risus' b'cum'.,43
+Demonology,B'ante' b'eu' b'a' b'a'.,24
+Azerbaijan,B'nisi' b'mi' b'a' b'a' b'et' b'mus' b'dui' b'at' b'a'.,55
+Literature,B'amet' b'et' b'a' b'a' b'libero'.,34
+Astronomers,B'pede' b'in' b'a' b'a' b'mi' b'dis' b'a' b'a' b'id' b'magnis' b'dui'.,70
+Black Death,B'quam' b'mi' b've' b'cum' b'vivamus' b'malesuada' b'arcu'.,59
+Sea stories,B'enim' b'et' b'id' b'in' b've' b'nec' b'cum'.,46
+Adolescence,B'quam' b'mi' b'a' b'a' b'eros' b'a' b'a' b'mi'.,48
+First loves,B'arcu' b'at' b'ut' b'nec' b'a' b'rhoncus' b'eni'.,50
+Agriculture,B'pede' b'ad' b'ut' b'a' b'a' b'ut' b'a' b'cras'.,49
+Family life,B'nunc' b've'.,14
+Hitchhiking,B'urna' b'in' b'a' b'conubia' b'ad'.,36
+Sex customs,B'elit' b'ut' b'a' b'mauris' b'a' b'elit'.,42
+Love poetry,B'erat' b'ac' b'a' b'a' b'et' b'orci' b'sem' b'a' b'a' b'neque' b'rutrum' b'ac' b'dictum'.,90
+Manuscripts,B'urna' b'ut' b'id' b'dolor' b'a' b'vestibulum' b'eu' b'ac'.,60
+Mathematics,B'nunc' b'ac' b'a' b'a' b'a' b'eu' b'lorem' b'a' b'id'.,55
+Music trade,B'ante' b'eu' b'a'.,19
+Fairy tales,B'arcu' b'ad' b'a' b'a' b'a'.,29
+Photography,B'nisi' b'eu'.,14
+New England,B'amet' b'eu' b'a' b'a' b'amet'.,32
+Bereavement,B'nunc' b'in' b'id' b'a' b'augue' b'at' b'tortor' b'nulla' b'est' b'non' b'ad' b'a' b'a'.,89
+Imperialism,B'odio' b'ad' b'a'.,19
+Businessmen,B'elit' b've' b'mi' b'sed' b'cras' b'erat'.,43
+Apprentices,B'orci' b'ad' b'a' b'ad' b'mi' b'class' b'in'.,46
+Aeronautics,B'nibh' b'eu' b'erat' b'nisl' b'a' b'a'.,40
+French drama,B'ante' b'at' b'a' b'viverra' b'cum' b'a' b'a' b'per' b'amet' b'cras' b'a' b'a' b'morbi' b'odio' b'curabitur'.,110
+Eretz Israel,B'nisl' b've'.,14
+Grandmothers,B'duis' b'at' b'a' b'vitae' b'blandit' b'sed'.,46
+Conspiracies,B'quam' b'eu' b'mi' b'a' b'a' b'a' b'et'.,41
+House & Home,B'diam' b'ac' b'ad' b'nunc' b'a' b'a' b'viverra'.,49
+Latin poetry,B'quis' b'et' b'lacinia' b'senectus' b'eni'.,44
+Abused wives,B'nisl' b'at' b'eu' b'a' b'leo' b'ad' b'ante' b'a' b'donec' b'sapien'.,70
+Birthparents,B'quam' b'ad'.,14
+High schools,B'eros' b'at' b've' b'a' b'a' b'pede' b'a'.,43
+Antisemitism,B'amet' b'mi' b'a' b'lectus' b'id' b'a' b'a' b'a'.,50
+Mentally ill,B'quam' b'ac' b'a' b'luctus' b'a' b'a' b'mollis' b'fusce' b'purus' b'a' b'sed' b've'.,85
+Country life,B'enim' b'at' b'a'.,19
+Architecture,B'duis' b'ad' b'erat' b'duis' b'ornare' b'a' b'ac'.,51
+Horror tales,B'ante' b'id' b'a' b'morbi' b'a' b'leo' b'a' b'commodo' b'primis'.,66
+Book burning,B'nibh' b'ad' b'posuere'.,25
+Christianity,B'nibh' b'et'.,14
+"Africa, East",B'duis' b've'.,14
+Confucianism,B'eget' b'ut' b'a' b'hac' b'a' b'sed' b'a' b'duis' b'a'.,56
+Sea monsters,B'ante' b'et' b'a' b'a' b'a' b'class'.,38
+Black market,B'orci' b'ac'.,14
+Good and evil,B'quis' b'ac' b'a'.,19
+Human cloning,B'eget' b'ad' b'a' b'a' b'per' b'a' b've' b'a'.,47
+Diary fiction,B'eget' b've' b'a' b'massa' b'elit' b'a' b'a' b'non' b'a' b'a' b'a' b'nisl' b'sed'.,83
+Short stories,B'quam' b'id' b'a' b'leo'.,26
+Ghost stories,B'urna' b'mi' b'a' b'leo' b'sapien' b'a' b'a' b've' b'a'.,57
+Polish poetry,B'amet' b'ad' b'a' b'a' b'laoreet' b'a' b'est' b'a' b'a' b'a' b'a'.,67
+English drama,B'pede' b'at' b'a' b'a' b'a' b'a' b'consequat' b'consectetuer' b'nibh'.,71
+Building laws,B'diam' b'id'.,14
+Egyptologists,B'nibh' b'ac'.,14
+Social action,B'urna' b'ac' b'a' b'a' b'a' b'non'.,36
+Photographers,B'duis' b'ad' b'a'.,19
+Businesswomen,B'duis' b'at' b'a' b'a' b'at' b'a' b'a'.,40
+Mars (Planet),B'quis' b'ac' b'a' b'a' b'et' b'a'.,35
+Great Britain,B'ante' b'eu'.,14
+"Authors, Arab",B'duis' b'in' b'a' b'a' b'aenean' b'leo' b'neque' b'a' b'a'.,60
+Kyoto (Japan),B'quam' b'mi'.,14
+Czech fiction,B'eget' b'ac' b'a' b'non' b'eni'.,33
+Animal sounds,B'nibh' b'ut' b'a' b'tempor' b'a' b'ligula' b'a' b'a' b'a' b'eget'.,67
+Latin America,B'enim' b'et' b'a'.,19
+United States,B'arcu' b'ut' b'a' b'a' b'purus' b'a' b'ante'.,46
+Arctic regions,B'ante' b'id' b'a' b'a' b'a' b'odio' b'at' b'ut' b'netus' b'at'.,64
+Catholic women,B'nisl' b'ut' b'a' b'a' b'enim' b'cursus'.,42
+Czechoslovakia,B'eros' b've' b'potenti' b'accumsan' b'hac'.,44
+English essays,B'quam' b'ut' b'nonummy' b'dictumst' b'hac' b'a'.,49
+Divorced women,B'erat' b'mi' b've' b'urna' b'diam' b'eget'.,44
+Mathematicians,B'nunc' b'ut'.,14
+Spiritual life,B'orci' b'ac' b'dapibus' b'odio' b'a'.,38
+English poetry,B'cras' b'ad'.,14
+Adult children,B'nunc' b'ac' b'a' b'nec' b'a' b'a' b'vel' b'ultricies' b'enim' b'et' b'a' b'a' b'a'.,85
+Christian life,B'amet' b'in' b'a' b'a' b'a' b'a' b'sem' b'potenti' b'netus' b'mi' b'a' b'ad' b'vitae' b'a' b'a'.,97
+Occult fiction,B'enim' b'at' b'a' b'orci' b'a' b'neque' b'a' b'fusce' b'a' b'nisi' b'odio' b'a'.,81
+Ballet dancers,B'nisi' b'ac' b'at' b'a' b'nec' b'mauris' b'leo'.,49
+Arabic fiction,B'nisi' b'in' b'ut' b'a' b'a' b'a'.,35
+Human behavior,B'erat' b'eu' b'a' b'a' b'mi' b'a'.,35
+Czech Republic,B'elit' b'id'.,14
+Boston (Mass.),B'nibh' b'ut' b'a' b'a' b'iaculis' b'a' b'mi' b'sit' b'a'.,58
+Transportation,B'nibh' b'ad' b'a' b'tincidunt' b'nibh'.,40
+Community life,B'nunc' b'ut' b'mi' b'nam' b'mi' b'volutpat' b'a' b'nec' b'a' b'a' b'augue' b'a' b'hendrerit' b'a' b'quis' b'a' b'a'.,117
+Rock musicians,B'ante' b'et' b'a' b'a' b'eu' b'habitant' b'a'.,47
+"Poets, Chilean",B'eget' b'mi' b'a' b'proin' b'phasellus' b'nam' b've' b'a' b'a'.,64
+Married people,B'nisl' b'mi' b'a' b'a' b'elit' b'ut'.,38
+American drama,B'nisi' b've' b'a' b'a' b'a' b'elit' b'a' b'leo'.,49
+Business women,B'duis' b'ut' b'a' b'taciti' b'in' b've'.,41
+"Amis, Kingsley",B'urna' b've' b'a' b'ut' b'a' b'a' b'ad' b'class' b'a' b'sit' b'per' b'et' b'nisi' b'a' b'a' b'arcu'.,101
+Mental illness,B'eget' b'at' b'a' b'a' b'volutpat' b'quam' b'dictumst' b'a'.,61
+Social Science,B'amet' b've' b'et' b'a' b'leo' b'a' b'cum' b'nullam'.,54
+Horror stories,B'elit' b'id' b'a' b'eu' b'et' b'nibh' b'nec' b'a'.,51
+Graphic novels,B'duis' b'ac' b'a' b'ut' b'a' b'a' b'a' b'curabitur'.,53
+Reducing diets,B'nunc' b'mi' b'a' b'a'.,24
+Existentialism,B'nisl' b'in'.,14
+Paris (France),B'eros' b'ut' b'a' b'a' b'natoque'.,35
+"Authors, Cuban",B'elit' b'eu'.,14
+"Poets, American",B'arcu' b've' b'a'.,19
+"Cooking, French",B'elit' b'id' b'a' b'et' b'penatibus' b'magna' b'at' b'felis' b'iaculis' b'per' b'a' b'non' b'magnis' b'id' b'a'.,113
+American poetry,B'quam' b'in' b'mi' b'ut' b'tempor'.,36
+"Authors, German",B'erat' b'et' b'duis' b'luctus' b'a' b'a' b'a' b'cursus'.,57
+English fiction,B'nisi' b'mi' b'id' b'fusce' b'tellus' b'a' b'quam' b'a' b'a'.,62
+Divorced people,B'ante' b'in' b'a' b'a' b'eu' b'nisl' b'nunc'.,46
+Performing Arts,B'nisl' b'eu' b'a' b'turpis' b'a' b'id' b'nibh' b'ac' b'a' b'felis' b'lectus' b'sem' b'a'.,90
+Popular culture,B'amet' b'ad'.,14
+Abandoned mines,B'ante' b'et' b've'.,20
+Science fiction,B'eget' b'ac' b'a' b've' b'massa' b'mattis' b'a' b'a' b'ut' b'a' b'nisi'.,73
+Fantasy fiction,B'urna' b'eu'.,14
+American essays,B'pede' b'et' b'a' b'aptent' b'nec' b'metus' b'a' b'vel' b'ut' b'nisi' b'a'.,76
+Epic literature,B'nibh' b'ut' b'a' b'id'.,25
+Conduct of life,B'duis' b'at' b'a' b'lectus' b'aliquet' b'a' b'cursus' b'a'.,60
+College stories,B'odio' b'ad' b'a' b'a' b'euismod' b'ligula' b'sociosqu' b'tempus' b'a' b'a'.,77
+Male friendship,B'erat' b'ut' b'a' b'nam' b'condimentum' b'a' b'mi' b'leo' b'penatibus' b'sociis' b'ad' b'a'.,93
+Adult education,B'eget' b'id' b'a' b'lectus' b'platea'.,39
+Organized Crime,B'quis' b'ac' b'a' b'et' b'eu' b'a' b'a' b'ut' b'nam' b'auctor' b'a' b'a'.,74
+"History, Modern",B'elit' b'ad' b'a' b'ut' b'mollis' b'magna' b'id' b've'.,56
+Vice-Presidents,B'nibh' b'et' b'a' b'sem'.,26
+"Authors, English",B'eros' b've' b'a' b'per' b'eu' b'sit' b'nec' b'ut' b'nisl'.,60
+Electronic books,B'nunc' b'in'.,14
+Humorous fiction,B'pede' b'at' b'a' b'eni' b'nunc' b'a' b'mus' b'ipsum' b'a' b'a' b'nisi' b'mauris' b'per'.,90
+American fiction,B'odio' b'eu' b'sodales' b'a' b'ligula' b'mus'.,47
+Dublin (Ireland),B'cras' b'ad' b'a' b'ac' b'a' b'venenatis'.,43
+Women terrorists,B'urna' b've'.,14
+"Authors, Italian",B'erat' b'id' b'a'.,19
+Juvenile Fiction,B'cras' b'at' b'a' b'a' b'a'.,29
+Computer science,B'diam' b'id' b'a'.,19
+Domestic fiction,B'pede' b'ut' b'ad' b'eu' b'eni'.,33
+Bail bond agents,B'ante' b'at' b'a' b'porta' b'a' b'urna' b'a' b'a' b'leo' b'a' b'ipsum' b'dis' b'nisi' b'a' b'ut'.,98
+English language,B'odio' b'mi' b'a' b'cursus' b'orci' b'ultricies' b'sit'.,57
+Prisoners of war,B'nisl' b'mi' b'a' b'sit'.,26
+Cities and towns,B'nisl' b'eu'.,14
+European fiction,B'nisl' b'eu' b'a' b'a' b'ut' b'in' b'a' b'a' b'nisl' b'a' b'a' b'a' b've' b'et'.,81
+Mothers and sons,B'orci' b'id' b'a' b'a' b'felis' b'hymenaeos' b'per'.,53
+Apartment houses,B'arcu' b've' b'a' b'a' b'mi' b'a'.,35
+Boarding schools,B'orci' b'id' b'a' b'dui' b'massa'.,35
+Crafts & Hobbies,B'quam' b'in'.,14
+College teachers,B'urna' b'et' b'a' b'a' b'a'.,29
+Children's plays,B'ante' b'at' b'a' b'a' b'mi' b'a' b'ut'.,41
+Christian saints,B'enim' b'et' b'a' b'congue' b'nostra'.,39
+Health & Fitness,B'nisi' b'at' b'a' b'in' b'a' b'praesent' b'a' b'dui' b'ac' b'a' b'sem'.,72
+London (England),B'erat' b'id' b'a' b'cras' b've' b'ad' b'a' b'a' b'ipsum' b'a' b'a'.,68
+New York (State),B'cras' b'in' b'a' b'ut' b'aptent' b'massa' b'sit' b'quam' b'amet'.,67
+Cocaine industry,B'arcu' b've' b'a' b'nulla' b'nullam'.,38
+Humorous stories,B'orci' b'id' b'a' b'mi' b'id' b'sem' b'tellus' b'eu' b'a' b'a'.,64
+Large print books,B'diam' b'id' b'sodales' b'amet' b'a' b'proin' b'lectus'.,57
+Female friendship,B'amet' b've' b'a' b've' b'felis' b'mattis' b'a' b'a' b'rutrum' b'a'.,69
+Christian fiction,B'amet' b'in' b'mi' b'sem' b'hac' b'a' b'fames' b'arcu' b'a' b'a' b'tortor' b'a' b'a'.,86
+Provence (France),B'nisi' b'mi'.,14
+Political science,B'amet' b'in' b'a' b'a' b'nulla' b'sed' b'nunc'.,48
+Christmas stories,B'amet' b'ad'.,14
+"Animals, Mythical",B'cras' b'ad' b'a' b'per' b'sit' b'ac' b'egestas' b'justo' b'ad' b'a'.,70
+Cambridge (Mass.),B'ante' b'eu' b'ante' b'erat'.,30
+Consumer behavior,B'ante' b'ac' b'a' b'duis' b'quis' b'a' b'a' b'penatibus' b'amet' b'fusce' b'sollicitudin' b'quis' b'cum'.,106
+Lisbon (Portugal),B'duis' b've'.,14
+Handicapped youth,B'elit' b'ut' b'a' b'curae' b'a' b'cras' b'ut' b'lacinia'.,58
+Babytime resource,B'ante' b'eu' b'ut' b'inceptos' b'nulla' b'orci' b'sem' b'a' b'a' b'phasellus' b'cum'.,86
+Zero (The number),B'orci' b'in' b'a' b'eros' b'cum'.,34
+Classical fiction,B'ante' b'eu' b'id' b'in' b'nibh' b'duis' b'tellus' b'ipsum'.,61
+"Finance, Personal",B'arcu' b'in' b'commodo' b'a' b'tempor'.,40
+"Authors, Canadian",B'eros' b'eu' b'a' b'a' b'a'.,29
+"Authors, American",B'amet' b'ad'.,14
+Adventure fiction,B'quam' b'eu'.,14
+Political fiction,B'quam' b'mi' b'a' b'a' b'pede'.,32
+Adventure stories,B'diam' b'in' b'et' b'a' b'a' b'commodo' b'a' b've' b'et'.,58
+Boats and boating,B'nibh' b'in' b'eu'.,20
+African Americans,B'quam' b'eu' b'a' b'a' b'a' b'vel'.,36
+Children's stories,B'arcu' b'ac' b'ad' b'nam' b'a'.,32
+College attendance,B'quam' b'in' b'a' b'enim' b'a' b'risus' b'a' b'sit' b'dui' b'a' b'velit' b'sollicitudin' b'urna'.,98
+Aircraft accidents,B'ante' b'id'.,14
+Emotional problems,B'nisi' b'ac' b'a' b'a' b'et' b'eu' b'mi' b'vel' b'nam' b'ac' b'a'.,67
+Historical fiction,B'eros' b'id'.,14
+"Novelists, English",B'eros' b'ac'.,14
+City and town life,B'nisi' b'ad' b'a' b'a' b'praesent'.,36
+Dominican Republic,B'quis' b'ad' b'ut' b'felis' b'a' b'per' b'a'.,46
+Labrador retriever,B'urna' b'eu' b'a' b'in' b'a' b'a' b'natoque' b'a' b'lectus' b'bibendum' b'ad' b'litora' b'enim' b'hymenaeos' b'hac'.,117
+Australian fiction,B'quis' b'ac' b'a' b'a' b'a' b'a' b'ac' b'hac'.,47
+Games & Activities,B'odio' b'mi'.,14
+Literary Criticism,B'duis' b'ac' b'at' b'mi' b'non'.,33
+Cosmetics industry,B'eget' b'in' b'a' b'eget' b'a' b'tortor'.,42
+Animal sanctuaries,B'arcu' b'at'.,14
+Arthurian romances,B'duis' b'eu' b'a' b'a' b'a'.,29
+Slave insurrections,B'amet' b'at'.,14
+"Novelists, American",B'duis' b'id'.,14
+Amazon River Region,B'diam' b'at' b'a' b'a' b'a'.,29
+"Body, Mind & Spirit",B'urna' b'ad' b'a' b'mauris' b'libero' b'consectetuer' b'a' b'mi' b'cum' b've' b'semper' b'ad' b'a' b'a'.,105
+Young Adult Fiction,B'eget' b'eu'.,14
+Crime investigation,B'nibh' b'et' b'a' b'a' b'ligula' b'commodo' b'a' b'in' b'nisl'.,64
+Art museum curators,B'quam' b'at' b'eu' b'a' b'eu' b'a' b'purus' b'mi' b'a' b'ut'.,62
+American literature,B'amet' b'id' b'a' b'donec' b'est' b'a' b'a' b'ut'.,51
+Juvenile Nonfiction,B'arcu' b'eu' b'et'.,20
+Sports & Recreation,B'elit' b'id' b'et' b'a' b'a' b'hac' b'nunc' b'a' b'at'.,56
+Trials (Witchcraft),B'enim' b'ut' b'a' b'at' b'a' b've' b'a' b'a' b'ad'.,52
+Feature films [DVD],B'cras' b'id'.,14
+"Theology, Doctrinal",B'eros' b'mi' b'in' b'a'.,25
+Alzheimer's disease,B'amet' b'id' b'a' b'a'.,24
+Brothers and sisters,B'quam' b'eu'.,14
+"Fairy tales, English",B'enim' b'id' b'a' b'at' b'vivamus' b'a'.,41
+Business & Economics,B'arcu' b've' b'a' b'cursus'.,29
+Canterbury (England),B'nisi' b've' b'at' b'vel' b'per' b'luctus'.,44
+Motion picture plays,B'urna' b'id' b'a' b'in' b'sed' b'a' b'a' b'a'.,47
+Argentine literature,B'erat' b'ad' b'cubilia' b'a'.,30
+Literary Collections,B'urna' b'eu' b'a' b'a' b'a' b'a' b'a' b'at' b'a' b'tellus' b'ut' b'a'.,71
+Hallucinogenic drugs,B'orci' b'in'.,14
+Experimental fiction,B'erat' b've' b'nonummy'.,25
+"World War, 1914-1918",B'amet' b'et' b'eros' b'a' b'dolor' b'ante' b'vulputate' b'nam' b'et' b'diam' b've' b'a' b'mi'.,95
+Actors and actresses,B'ante' b'mi' b'a' b'at'.,25
+Crime investigations,B'enim' b'ut' b'mi' b'nisl' b'sem' b'a' b'proin' b'erat'.,57
+Intelligence service,B'eget' b'et' b'a' b'metus'.,28
+Political leadership,B'nisi' b'ut' b've' b'a'.,25
+African American men,B'cras' b'ad'.,14
+Business enterprises,B'quis' b'eu' b'feugiat' b'a' b'sollicitudin' b'duis' b'est' b'a' b'urna'.,74
+Children of the rich,B'amet' b've' b'et'.,20
+Los Angeles (Calif.),B'quis' b'ad' b'a' b'a' b'id' b'a' b'a'.,40
+Computer programmers,B'eget' b'et' b'id' b'felis' b'platea' b'ipsum' b'a' b'eni' b'nostra'.,70
+Confianza en sí mismo,B'orci' b'id' b'a' b'ad' b'a' b'sit' b'dolor'.,46
+Greek drama (Tragedy),B'nisi' b'ac' b'a'.,19
+Life on other planets,B'urna' b'id' b'a' b'nullam' b'per' b'libero' b'a' b'aptent' b'ut' b'a' b'sem' b'augue'.,88
+Igbo (African people),B'nisl' b'ut' b'a' b'mi' b'sem' b'a' b'nam' b'at' b'potenti'.,61
+Antislavery movements,B'erat' b'ut' b'a' b'a' b'a'.,29
+"Animals, Treatment of",B'quam' b'id' b'a' b'pede' b'a' b'lacus' b'ut' b'et' b'id'.,59
+Identity (Psychology),B'pede' b'eu'.,14
+Mormon fundamentalism,B'erat' b'ut' b'a' b'per' b'a'.,31
+Foreign Language Study,B'amet' b'ad' b'a' b'ac' b'a' b'ac' b'a' b'at' b'a'.,52
+Canadian wit and humor,B'nunc' b'et' b'eu' b'non' b'aliquet' b'vitae' b'ad' b'a' b'fusce'.,67
+"Persian Gulf War, 1991",B'arcu' b'id' b'a' b'a'.,24
+Bosnia and Hercegovina,B'eros' b'eu' b'at' b'a' b'arcu' b'non' b'a' b'convallis' b'dolor'.,67
+Aboriginal Australians,B'diam' b'at' b'in' b'sit' b'a' b'cum'.,39
+Bosnia and Herzegovina,B'quam' b'et' b'a' b'a'.,24
+American wit and humor,B'odio' b'in' b'ac' b'a' b'a' b'a' b'odio'.,43
+Interplanetary voyages,B'urna' b'ad' b'id' b'enim' b'a' b'a' b'et' b'a'.,49
+"Horror tales, American",B'pede' b'ad' b'ut' b'a' b'a'.,30
+Language and languages,B'elit' b'id' b'a'.,19
+Autonomy (Psychology).,B'nunc' b'ac' b'laoreet' b'suscipit'.,37
+Family & Relationships,B'eros' b'ad' b'a' b'a' b'a' b'et' b'maecenas' b'a'.,52
+"Short stories, English",B'nunc' b'at'.,14
+Dysfunctional families,B'eros' b'at' b'a' b'habitant' b'eros' b'et' b'a' b'eget' b'et' b'iaculis'.,75
+Human-alien encounters,B'elit' b've' b'a' b'a' b'orci' b'a' b'a' b'a'.,47
+"Vietnam War, 1961-1975",B'nunc' b'in' b'mi'.,20
+Cerebrovascular disease,B'quam' b'in' b'a' b'ipsum' b'proin' b'eu'.,43
+Adjustment (Psychology),B'arcu' b'at' b'a' b'non' b'venenatis' b'nisl' b'ac' b'a'.,58
+Benedictine monasteries,B'cras' b've' b'a' b'a' b'orci' b'ut' b'eu' b'a' b'a' b'diam' b'a' b'a' b'a' b'a' b'pede' b'a' b'elit'.,103
+Antiques & Collectibles,B'nibh' b'et'.,14
+Dating (Social customs),B'nisi' b'at' b'a' b'a' b'a' b'porta' b'in' b'a' b'lectus'.,59
+Comics & Graphic Novels,B'erat' b'ac' b'ut' b'a' b'nostra' b'mattis' b'ad' b'eu' b'lacus'.,66
+"Short stories, American",B'odio' b'mi' b'a'.,19
+"Ghost stories, American",B'urna' b'mi' b'at'.,20
+Repression (Psychology),B'elit' b'mi' b'a' b'blandit' b'ligula'.,40
+Curiosities and wonders,B'cras' b'et' b'potenti' b'proin' b've' b'magnis' b'in' b'a'.,61
+American Wit And Humour,B'amet' b'mi' b'et' b'a' b'a' b'ipsum' b'a' b'imperdiet' b'a'.,62
+Man-woman relationships,B'cras' b'ad' b'posuere' b'a'.,30
+Airplane crash survival,B'nibh' b'at' b'a'.,19
+Sexual behavior surveys,B'erat' b've' b'at' b'netus' b'a' b'senectus' b'a' b'dui'.,58
+Boarding school-fiction,B'urna' b'eu' b'a' b'hac' b'nullam'.,36
+Indic fiction (English),B'eget' b'mi'.,14
+Dangerously mentally ill,B'erat' b'in' b'ac' b'a'.,25
+Galicia (Spain : Region),B'quam' b'id' b'a'.,19
+"Comic books, strips, etc",B'duis' b'at' b'a' b'a'.,24
+Drenai (Imaginary place),B'odio' b'ac' b'nonummy' b'a'.,30
+Technology & Engineering,B'pede' b'at' b'a' b'dis'.,26
+"Fantasy fiction, English",B'ante' b'at'.,14
+Black humor (Literature),B'eget' b'mi' b'a' b'a' b'quis' b'at'.,38
+Erinyes (Greek mythology),B'quam' b'at'.,14
+Friendship in adolescence,B'diam' b'ad' b'a' b'montes' b'eu' b'risus'.,44
+"Science fiction, English.",B'eget' b'at' b'a' b'a'.,24
+Biography & Autobiography,B'pede' b've' b'a' b'et' b'ante' b'a' b'a'.,43
+Communication in families,B'urna' b'ad' b'a' b'in'.,25
+"Science fiction, American",B'ante' b'id' b'a' b'magna' b'torquent' b'a' b'a' b'ante' b'a' b'a' b'a' b'per'.,80
+Essentialism (Philosophy),B'ante' b'in' b'diam' b'per' b'a' b'eni' b'a' b'nisl' b'a' b'dis'.,66
+"Humorous stories, English",B'eget' b've' b'a' b'a' b'nec' b'a' b'lectus' b'a' b'a'.,56
+Existential psychotherapy,B'arcu' b'mi'.,14
+"Fantasy fiction, American",B'quam' b'id' b'a' b'a'.,24
+Church work with the poor,B'elit' b'in'.,14
+Archaeological expeditions,B'arcu' b'ut' b've' b'a' b'a' b'ipsum' b'id'.,45
+"Banks and banking, British",B'erat' b'at' b'a' b'purus' b'urna' b'a' b'eget' b'a'.,54
+"Napoleonic Wars, 1800-1815",B'quis' b'in' b'a'.,19
+"Adventure stories, English",B'erat' b'in'.,14
+Imaginary wars and battles,B'nisi' b'ut' b'at' b'nam' b'a' b'a' b'ad' b'sed'.,50
+"Humorous stories, American",B'orci' b'ut' b'at' b'dis' b'mi' b'ac' b'a' b'a' b'tincidunt' b'rhoncus' b'a'.,78
+Human-animal relationships,B'diam' b've'.,14
+Alcestis (Greek mythology),B'nisl' b'et' b'mi' b'magnis'.,30
+Cornwall (England : County),B'erat' b'ac' b'a' b'dui' b'a' b'risus'.,40
+Otherland (Imaginary place),B'nisl' b'ut' b'a' b'a' b'hac' b'congue' b'curae' b'in' b'a' b'per' b'nulla'.,77
+Language Arts & Disciplines,B'eget' b'eu' b'a' b'ac'.,25
+Amour - Ouvrages avant 1800,B'eget' b'eu' b'a' b'mi'.,25
+Psychoanalysis and religion,B'eget' b'et'.,14
+"Nineteen ninety-eight, A.D.",B'erat' b'ac' b'a'.,19
+"Adventure stories, American",B'nisi' b'et' b'a' b'a' b'a' b'tortor' b'a' b'a' b'a'.,54
+"Children's poetry, American",B'nibh' b'ad' b'a' b'dis' b'dictum' b'duis' b'a' b'a'.,54
+Adirondack Mountains (N.Y.),B'cras' b'id' b'orci' b'varius' b'a' b'a' b'non' b'enim' b'a' b'a'.,67
+"Children's stories, English",B'arcu' b'ac' b'a' b'a' b'mus' b'a' b'a' b'a' b'et' b'erat' b'a' b'platea' b'sit'.,82
+Discworld (Imaginary place),B'pede' b'id' b'a' b'et' b'a' b'a' b'nostra' b'aliquet' b'a' b'sit' b'cras' b'amet' b'leo' b'a' b'a' b'porttitor'.,114
+Film producers and directors,B'orci' b'in' b'ac' b'a' b'cras' b'luctus' b'justo' b'a' b'a' b'at' b'id'.,74
+Conan (Fictitious character),B'quis' b'mi' b'eu' b'donec' b'blandit' b'congue' b'in' b'id' b'odio' b'eros' b'a' b'natoque' b'libero'.,104
+Children of divorced parents,B'erat' b've' b'a' b'leo' b'montes' b'primis' b'ut' b'a' b'id' b'tellus'.,73
+Aeneas (Legendary character),B'enim' b'at' b'a'.,19
+Detective and mystery stories,B'nibh' b'ac' b'erat' b'a' b'per' b'a'.,39
+"Tobruk, Battles of, 1941-1942",B'urna' b'et' b'ad' b'vel' b'eni' b'ad' b'mi' b'hac' b'cum'.,60
+Amyotrophic lateral sclerosis,B'arcu' b'id' b'a' b'non' b'nulla' b'congue' b'mi' b'a' b'a' b'a' b've'.,72
+Psycho (Motion picture : 1960),B'ante' b'eu' b'a' b'a' b'a' b'ac'.,35
+"Experimental fiction, American",B'quis' b'at'.,14
+Alienation (Social psychology),B'diam' b'in' b'a' b'et'.,25
+"Insane, Criminal and dangerous",B'elit' b'id' b'a' b'diam'.,27
+"Nanjing (Jiangsu Sheng, China)",B'orci' b'in' b'a' b'a'.,24
+Alternative histories (Fiction),B'urna' b'id' b'a' b'a'.,24
+Children of Holocaust survivors,B'nisi' b'ac' b'a' b'cum' b'odio'.,34
+People with social disabilities,B'urna' b'ad' b'a' b'senectus' b'a' b'a' b've' b'dis' b'a'.,59
+87th Precinct (Imaginary place),B'ante' b've'.,14
+Partition of decedents' estates,B'cras' b'eu' b'a' b'in' b'nam'.,32
+"Holt, Max (Fictitious character)",B'nisl' b'ac' b'a' b'cum' b'a'.,31
+Literary Criticism & Collections,B'cras' b'ut'.,14
+"Everest, Mount (China and Nepal)",B'duis' b'mi' b'orci' b'mus' b'a' b'a' b'aptent' b'fermentum'.,62
+"American wit and humor, Pictorial",B'erat' b'mi' b'eu' b'dui' b'imperdiet' b'erat' b'id' b'a' b'ligula' b'a' b'a'.,79
+"Ryan, Jack (Fictitious character)",B'enim' b'at' b'id' b'a' b'a' b'a' b'a' b'nullam'.,50
+"Bond, James (Fictitious character)",B'nibh' b'ut'.,14
+African American plantation owners,B'eros' b'ad' b'a' b'pede' b'etiam' b'a' b'mi' b'massa' b'blandit' b'ligula'.,77
+"Dallas, Eve (Fictitious character)",B'urna' b'id' b'ac' b'a' b'dui' b'in' b'a' b'vel' b'a'.,55
+"Hyland, Morn (Fictitious character)",B'elit' b'ac' b'a' b'a' b've' b'enim' b'rutrum' b'ipsum' b'id' b'a'.,68
+Cider house rules. (Motion picture),B'enim' b'id' b'a' b'tellus' b'a' b'a' b'a' b'dui'.,51
+"Dent, Arthur (Fictitious character)",B'ante' b'at' b'et' b'a' b'euismod' b'varius'.,46
+"Blake, Anita (Fictitious character)",B'eget' b'in' b'a' b'id' b'a' b'ac' b'urna' b'neque' b've' b'ultricies' b'ipsum' b'in'.,87
+Chrestomanci (Fictitious character),B'orci' b'in' b'a' b'quis' b'a' b'proin' b'tempor' b'eu'.,57
+Motion picture actors and actresses,B'enim' b'id' b'a' b'curae' b'a' b'porttitor'.,46
+Castle Rock (Me. : Imaginary place),B'amet' b'ad' b'a' b'nec' b'nisl' b'a' b'a' b'a' b'a' b'primis' b'ut' b'eu' b'a'.,81
+"Aubrey, Jack (Fictitious character)",B'ante' b'in' b'a' b'non' b'a' b'a' b'a' b'a' b've' b'leo' b'ut'.,65
+"Marple, Jane (Fictitious character)",B'orci' b'ad' b'a' b'sem'.,26
+"Bumppo, Natty (Fictitious character)",B'diam' b'id' b'a' b'et' b'nam' b'et' b'iaculis' b'a' b'dis' b'nec' b'mi'.,74
+Minimal brain dysfunction in children,B'erat' b'ad' b'a' b'arcu' b'a' b'hendrerit' b'porta' b'eu' b'mi' b'a' b'a'.,76
+"Baggins, Frodo (Fictitious character)",B'nisl' b've'.,14
+"Little, Stuart (Fictitious character)",B'arcu' b'in' b'ut' b'a' b'in' b'per'.,38
+"Dracula, Count (Fictitious character)",B'diam' b'in' b'a' b'pede' b'a' b'taciti' b'a' b'a' b'a' b'eu' b'a' b'platea'.,78
+Death (Fictitious character : Gaiman),B'cras' b'in'.,14
+Continental Op (Fictitious character),B'odio' b'ut' b've' b'quam' b'ac'.,34
+"Baggins, Bilbo (Fictitious character)",B'orci' b'eu' b'a' b'sit' b'a' b'leo'.,38
+"Conner, Rainie (Fictitious character)",B'nunc' b'id' b'quam' b'a'.,27
+"Cabrillo, Juan (Fictitious character)",B'nisl' b'eu' b'a' b'mi' b'hac' b'ut' b'ad' b'a' b'a' b'id' b'a' b'est' b'eget'.,80
+Alanna (Fictitious character : Pierce),B'cras' b'in' b'a' b'lacus' b'erat' b'a' b'a'.,46
+Yoknapatawpha County (Imaginary place),B'nibh' b'ut' b'at'.,20
+"Poirot, Hercule (Fictitious character)",B'enim' b'ac'.,14
+"Detective and mystery stories, English",B'nisi' b've' b'a'.,19
+African Americans in radio broadcasting,B'odio' b'in'.,14
+"Beresford, Tommy (Fictitious character)",B'enim' b'ad' b'ut' b'nibh' b'per' b'a' b'hac'.,47
+"Lecter, Hannibal (Fictitious character)",B'nisl' b'in' b'a' b'non' b'hac' b'a' b'a' b'amet' b'a'.,56
+"Detective and mystery stories, American",B'duis' b'in'.,14
+Auschwitz (Poland : Concentration camp),B'pede' b'ut'.,14
+Babysitters Club (Imaginary organization),B'quam' b'id' b'a' b'et' b'a' b'sed' b'a' b'sit' b'a' b'natoque' b'ac' b'eros' b'ut'.,85
+"Battle, Superintendent (Fictitious character)",B'odio' b'id' b'a' b'a' b'eu' b'a' b'a'.,40
+"Detective and mystery comic books, strips, etc",B'arcu' b'ad' b'a' b'non' b'et' b'accumsan' b'a' b'a'.,54
+Englisch - Geschichte - Lyrik - Aufsatzsammlung,B'pede' b'ac' b'a' b'ad' b'tellus' b'a' b'sollicitudin' b'nec' b'hac' b'a'.,75
+Characters and characteristics in motion pictures,B'nibh' b'mi' b'a' b'augue'.,28
+Estados Unidos - Relaciones exteriores - 1945-1989,B'quis' b'ac' b'ut' b'id' b'a' b'varius' b'fames' b'a' b'suscipit' b'a'.,72

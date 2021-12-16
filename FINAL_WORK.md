@@ -332,6 +332,10 @@ BEGIN
     RETURN NEW;
 END; $$
 LANGUAGE plpgsql;
+
+-- Эта функция будет срабатывать каждый раз при добавлении нового шкафа
+DROP TRIGGER IF EXISTS create_shelves_after_creating_bookcase ON bookcases;
+CREATE TRIGGER create_shelves_after_creating_bookcase AFTER INSERT ON bookcases FOR EACH ROW EXECUTE FUNCTION create_shelves_after_creating_bookcase();
 ```
 
 Как только мы удаляем шкаф удаляем и полки. Для этого нам надо отключать блокировку таблицы "полки в книжном шкафу" перед попыткой удаления шкафа и включать обратно после

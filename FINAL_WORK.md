@@ -180,8 +180,8 @@ CREATE TABLE IF NOT EXISTS bookcase_types
 ```PGSQL
 CREATE TABLE IF NOT EXISTS bookcases
 (
-    hall SMALLINT NOT NULL,			                            -- Номер зала в котором размещен шкаф
-    bookcase SMALLINT NOT NULL,		                            -- Номер шкафа в зале
+    hall SMALLINT NOT NULL,                                     -- Номер зала в котором размещен шкаф
+    bookcase SMALLINT NOT NULL,                                 -- Номер шкафа в зале
     bookcase_type VARCHAR(20) NOT NULL,                         -- Тип шкафа
     PRIMARY KEY(hall, bookcase),                                -- Пара зал-шкаф должна быть уникальна
     FOREIGN KEY ( bookcase_type )
@@ -196,14 +196,14 @@ CREATE TABLE IF NOT EXISTS bookcases
 ```PGSQL
 CREATE TABLE IF NOT EXISTS shelves
 (
-    hall SMALLINT NOT NULL,				                    -- Номер зала в котором размещен шкаф
-    bookcase SMALLINT NOT NULL,			                    -- Номер шкафа в зале
-    shelf SMALLINT NOT NULL,			                    -- Номер полки в шкафу
-    occupied_width SMALLINT NOT NULL DEFAULT 0,	            -- Занятое книжками место на полке в мм
-    PRIMARY KEY(hall, bookcase, shelf),                     -- Ключ каждой полки также включает в себя шкаф и зал
-    FOREIGN KEY (hall, bookcase)                            -- Удаляем шкаф - удалем и полки
+    hall SMALLINT NOT NULL,                                     -- Номер зала в котором размещен шкаф
+    bookcase SMALLINT NOT NULL,                                 -- Номер шкафа в зале
+    shelf SMALLINT NOT NULL,                                    -- Номер полки в шкафу
+    occupied_width SMALLINT NOT NULL DEFAULT 0,                 -- Занятое книжками место на полке в мм
+    PRIMARY KEY(hall, bookcase, shelf),                         -- Ключ каждой полки также включает в себя шкаф и зал
+    FOREIGN KEY (hall, bookcase)                                -- Удаляем шкаф - удалем и полки
         REFERENCES bookcases ( hall, bookcase ) ON DELETE CASCADE,
-    CHECK( occupied_width >= 0)                             -- Занятое книжками место на полке не может быть отрицательным
+    CHECK( occupied_width >= 0)                                 -- Занятое книжками место на полке не может быть отрицательным
 );
 ```
 
@@ -212,17 +212,17 @@ CREATE TABLE IF NOT EXISTS shelves
 CREATE TABLE IF NOT EXISTS books_shelf
 (
     id SERIAL PRIMARY KEY NOT NULL,       
-    isbn VARCHAR(50) NOT NULL,                              -- ISBN книжки
-    hall SMALLINT NOT NULL,				                    -- Номер зала, где лежит книжка
-    bookcase SMALLINT NOT NULL,			                    -- Номер шкафа, в котором лежит книжка
-    shelf SMALLINT NOT NULL,			                    -- Номер полки, на которой лежит книжка
-    numbers SMALLINT NOT NULL,			                    -- Число книг на полке
-    UNIQUE(isbn),					                        -- Экземпляры одной книги должны всегда находиться на одной полке 
+    isbn VARCHAR(50) NOT NULL,                                  -- ISBN книжки
+    hall SMALLINT NOT NULL,                                     -- Номер зала, где лежит книжка
+    bookcase SMALLINT NOT NULL,                                 -- Номер шкафа, в котором лежит книжка
+    shelf SMALLINT NOT NULL,                                    -- Номер полки, на которой лежит книжка
+    numbers SMALLINT NOT NULL,                                  -- Число книг на полке
+    UNIQUE(isbn),                                               -- Экземпляры одной книги должны всегда находиться на одной полке 
     FOREIGN KEY ( isbn )
         REFERENCES books ( isbn ),
     FOREIGN KEY ( hall,bookcase,shelf )
         REFERENCES shelves ( hall,bookcase,shelf ),
-    CHECK(numbers >= 0)                                     -- Допускаем хранение 0 книжек на полке (такие строки должны удаляться тригерной функцией)
+    CHECK(numbers >= 0)                                         -- Допускаем хранение 0 книжек на полке (такие строки должны удаляться тригерной функцией)
 );
 ```
 
